@@ -1,0 +1,6 @@
+IMPROVED FEDERATED LEARNING - 5 HOSPITALS (Weighted FedAvg)
+Best validation round: 6
+Accuracy: 0.8197
+Precision: 0.7895
+Recall: 0.9091
+F1 Score: 0.8451
